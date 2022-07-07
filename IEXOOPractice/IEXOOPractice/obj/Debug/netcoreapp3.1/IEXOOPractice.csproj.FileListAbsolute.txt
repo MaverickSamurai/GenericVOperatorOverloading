@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Implicit-Explicit-Generics-Overloading\IEXOOPractice\IEXOOPractice\bin\Debug\netcoreapp3.1\IEXOOPractice.exe
+C:\Users\User\Desktop\Implicit-Explicit-Generics-Overloading\IEXOOPractice\IEXOOPractice\bin\Debug\netcoreapp3.1\IEXOOPractice.deps.json
+C:\Users\User\Desktop\Implicit-Explicit-Generics-Overloading\IEXOOPractice\IEXOOPractice\bin\Debug\netcoreapp3.1\IEXOOPractice.runtimeconfig.json
+C:\Users\User\Desktop\Implicit-Explicit-Generics-Overloading\IEXOOPractice\IEXOOPractice\bin\Debug\netcoreapp3.1\IEXOOPractice.runtimeconfig.dev.json
+C:\Users\User\Desktop\Implicit-Explicit-Generics-Overloading\IEXOOPractice\IEXOOPractice\bin\Debug\netcoreapp3.1\IEXOOPractice.dll
+C:\Users\User\Desktop\Implicit-Explicit-Generics-Overloading\IEXOOPractice\IEXOOPractice\bin\Debug\netcoreapp3.1\IEXOOPractice.pdb
+C:\Users\User\Desktop\Implicit-Explicit-Generics-Overloading\IEXOOPractice\IEXOOPractice\obj\Debug\netcoreapp3.1\IEXOOPractice.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Implicit-Explicit-Generics-Overloading\IEXOOPractice\IEXOOPractice\obj\Debug\netcoreapp3.1\IEXOOPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Implicit-Explicit-Generics-Overloading\IEXOOPractice\IEXOOPractice\obj\Debug\netcoreapp3.1\IEXOOPractice.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Implicit-Explicit-Generics-Overloading\IEXOOPractice\IEXOOPractice\obj\Debug\netcoreapp3.1\IEXOOPractice.AssemblyInfo.cs
+C:\Users\User\Desktop\Implicit-Explicit-Generics-Overloading\IEXOOPractice\IEXOOPractice\obj\Debug\netcoreapp3.1\IEXOOPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Implicit-Explicit-Generics-Overloading\IEXOOPractice\IEXOOPractice\obj\Debug\netcoreapp3.1\IEXOOPractice.dll
+C:\Users\User\Desktop\Implicit-Explicit-Generics-Overloading\IEXOOPractice\IEXOOPractice\obj\Debug\netcoreapp3.1\IEXOOPractice.pdb
+C:\Users\User\Desktop\Implicit-Explicit-Generics-Overloading\IEXOOPractice\IEXOOPractice\obj\Debug\netcoreapp3.1\IEXOOPractice.genruntimeconfig.cache
